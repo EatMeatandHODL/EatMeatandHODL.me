@@ -3,7 +3,7 @@ title:  "Why Carnivore"
 subtitle: "Eating meat"
 author: "eatmeatandhodl"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/Steak.jpg"
 date:   2015-04-20 12:12:12
 ---
 
