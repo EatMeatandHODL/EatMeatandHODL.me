@@ -1,5 +1,5 @@
 ---
-title:  "Why Carnivore"
+title:  "Why Carnivore?"
 subtitle: "Eating meat"
 author: "eatmeatandhodl"
 avatar: "img/authors/wferr.png"
