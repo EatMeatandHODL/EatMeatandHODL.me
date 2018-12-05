@@ -4,7 +4,6 @@ subtitle: "I need to change"
 author: "eatmeatandhodl"
 avatar: "img/authors/Profile pic.jpg"
 image: "img/Steak.jpg"
-date:   2015-04-20 12:12:12
 ---
 
 ### I'm done with diets.
