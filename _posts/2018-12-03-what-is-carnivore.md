@@ -3,7 +3,7 @@ title:  "What is Carnivore?"
 subtitle: "Carnivore vs. Zero-carb"
 author: "eatmeatandhodl"
 avatar: "img/authors/profile_pic.jpg"
-image: "img/steak.jpg"
+image: "img/burger.jpg"
 ---
 
 ### Carnivore or Zero Carb?
