@@ -8,7 +8,6 @@ image: "img/burger.jpg"
 
 ### Carnivore or Zero Carb?
 
-
 If you were to join carnivore discussion groups you would see a lot of different opinions on what a carnivore diet, or what I prefer to call, way of eating is. Here is what I have determined from all of my reading and discussions with others. This is just my understanding and I am sure others would disagree, but here it is:
 
 Carnivore is eating meat and drinking water. (Pink Himalayan salt for seasoning.)
