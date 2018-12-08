@@ -8,6 +8,11 @@ image: "img/burger.jpg"
 
 ### Carnivore or Zero Carb?
 
-The carnivore diet, or as I prefer to say, way of eating is only eating meat and drinking water. You simply eat when you are hungry and eat until you are full. The good points of this are that there isn’t any counting of calories, fat, carbs, or protein. (I despise having to count.)
+If you were to join carnivore discussion groups you would see a lot of different opinions on what a carnivore diet, or what I prefer to call, way of eating is. Here is what I have determined from all of my reading and discussions with others. This is just my understanding and I am sure others would disagree, but here it is:
 
-There are some on this way of eating that say you can eat products from the animal such as cheese, eggs, cream, and butter. Some people still drink coffee and herbal tea because they find it too hard to give up. I say to this, it truly depends on the individual. I tried incorporating cheese, cream, and coffee and found my weight loss stalled. I think these types of eating are zero carb, but not true carnivore. My understanding of true carnivore is literally meat and water only. 
+Carnivore is eating meat and drinking water. (Pink Himalayan salt for seasoning.)
+
+Zero Carb is eating that which comes from the animal. It would primarily be meat, but allows eggs, cheese, and cream. Some folks allow seasonings, which have small amounts of carbs and coffee on this way of eating.
+
+When I started, I used cheese, eggs, and cream. I found through my journaling that the cheese and cream were stalling my weight loss and affecting my judgement to tell if I was truly hungry. I cut those out and the weight started to come off again. I was no longer reaching for the cheese as a snack out of boredom. I stopped eating eggs just to see how it affected me. I didn’t see a huge difference, but when I added them back in, surprisingly the scale went up again. Now I am back to just meat and water. I think every person has to find what is right for him or her and run with it. The one thing I think we can all agree on is that even though carbs taste heavenly, they are in fact of the devil. 
+
