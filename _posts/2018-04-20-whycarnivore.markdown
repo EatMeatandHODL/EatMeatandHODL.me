@@ -1,12 +1,11 @@
 ---
-title:  "Follow my journey"
+title:  "Follow my Journey"
 subtitle: "I need to change"
 author: "eatmeatandhodl"
 avatar: "img/authors/profile_pic.jpg"
 image: "img/steaks2.jpg"
 
 ---
-
 ### I'm done with diets.
 Have you ever started a diet and failed? Have you ever been so motivated and thought this is it, this time I am going to stick to it, only to stop two weeks in because a coworker brought in a box of cookies? This is the story of my life.
 
