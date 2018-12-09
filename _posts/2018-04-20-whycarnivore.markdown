@@ -1,5 +1,5 @@
 ---
-title:  "About me"
+title:  "Follow my journey"
 subtitle: "I need to change"
 author: "eatmeatandhodl"
 avatar: "img/authors/profile_pic.jpg"
