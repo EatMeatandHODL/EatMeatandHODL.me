@@ -2,8 +2,8 @@
 title: "60 Days Complete"
 subtitle: "First Goal Reached"
 author: "eatmeatandhodl"
-avatar: "img/authors/profile_pic_.jpg"
-image: "img/60dayphoto2.jpg"
+avatar: "img/authors/profile_pic.jpg"
+image: "img/before_after_60days.jpg"
 ---
 
 ###
