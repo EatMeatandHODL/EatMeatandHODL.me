@@ -3,10 +3,10 @@ title: "60 Days Complete"
 subtitle: "First Goal Reached"
 author: "eatmeatandhodl"
 avatar: "img/authors/profile_pic.jpg"
-image: "img/before_after_60days.jpg"
+image: "img/before_after_60days.JPG"
 ---
 
-###
+### 60 Day Before and After
 That picture you clicked on, that’s what a 60 day difference makes. 
 
 When I started this, I put myself on a short timeline to see if I could do it. I told myself if I could make it to twenty days, I would be able truly take it and run with it. I decided to start right before Halloween, the best holiday ever. There was candy everywhere. Lord help me I wanted to dive into the Reese’s cups. Every person at work seemed to have a candy dish out to tempt me. However, I pushed through and made it to 20 days. After thirty days, I felt like I was starting to gain even more control. I won’t lie and say I’m not tempted, but I certainly find it easier to say no. Sweets have always been my downfall. On a low carb plan you still get to have them, so I couldn’t break the addiction. I was just using artificial sweetener instead of real sugar to feed it. With the carnivore way of eating, you don’t keep feeding the addiction. You learn to fuel your body when it needs it. 
