@@ -1,10 +1,9 @@
 ---
 title: "What is Carnivore?"
-subtitle: 
+subtitle: "True vs Suggested" 
 author: "eatmeatandhodl"
-avatar:
-image:
-date:
+avatar: "img/authors/Profile pic.JPG"
+image: "img/Burgers.jpg"
 ---
 
 ### Carnivore or Zero Carb?
