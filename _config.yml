@@ -1,8 +1,29 @@
 # Site settings
+keywords: Blog, Fun, carnivore, health
+author: eatmeatandhodl
+repository: eatmeatandhodl/eatmeatandhodl.me
 title: EatMeatandHODL
 description: A blog about my journey in a carnivore lifestyle.
-keywords: Modern, Blogging, Fun
-author: eatmeatandhodl
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.eatmeatandhodl.com" # the base hostname & protocol for your site
-repository: eatmeatandhodl/eatmeatandhodl.me
+url: https://www.eatmeatandhodl.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   twitter: EatMeatandHODL
+   instragram: carnivoregal
+
+#google_analytics: "UA-58263416-1"
