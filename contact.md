@@ -9,7 +9,7 @@ title: Contact Long Haul
     <p class="intro">Feel free to reach out to me. Submit your name, email, and a brief message.</p>
     <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
   </div>
-  <form action="http://formspree.io/derek@farscapian.com" method="POST">
+  <form action="http://formspree.io/jen.melancon@protonmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
