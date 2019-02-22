@@ -2,7 +2,9 @@
 title: "Grease Stains"
 layout: default
 ---
-<div class="post"><h2 class="pageTitle">Carnivores understand</h2>
+<div class="post">
+
+<h2 class="pageTitle">Carnivores understand</h2>
 
 <p>Y’all. I am so excited to tell you about this. Over Christmas, I was chomping down on a juicy ribeye. Being the graceful person I am, of course I drip some of the juice down the front of my shirt. I loved that shirt too. I treated it with shout and crossed my fingers. After washing and drying it the stain was still there. I was bummed and decided to keep it as an around the house shirt. </p>
 
@@ -12,9 +14,8 @@ layout: default
 Here is the link if you would like to check it out:</p>
 
 <center>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=eatmeatandhod-20&marketplace=amazon&region=US&placement=B00ISDMQ8U&asins=B00ISDMQ8U&linkId=d69dee2f33e0d0f525d09269f090d5c5&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=eatmeatandhod-20&marketplace=amazon&region=US&placement=B00ISDMQ8U&asins=B00ISDMQ8U&linkId=2bd11f99cda70ef0a9cba73408298b75&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe></center>
 
-
 <p>I will be keeping this on hand as I know this is not the last time I get grease on my outfits.</p>
-
+</div>
