@@ -18,9 +18,9 @@ navigation:
  - title: Home
    url: /index.html
  - title: About
-   url: /about
+   url: /about/index.html
  - title: Contact
-   url: /contact
+   url: /contact/index.html
 
 social:
    twitter: EatMeatandHODL
