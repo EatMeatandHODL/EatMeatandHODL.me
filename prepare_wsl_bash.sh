@@ -31,3 +31,9 @@ sudo apt-get install -y docker-ce
 
 # Allow your user to access the Docker CLI without needing root access.
 sudo usermod -aG docker $USER
+
+# Install Python and PIP.
+sudo apt-get install -y python python-pip
+
+# Install Docker Compose into your user's home directory.
+pip install --user docker-compose
