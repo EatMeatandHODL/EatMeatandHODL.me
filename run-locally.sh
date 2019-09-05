@@ -1,13 +1,15 @@
 #!/bin/bash
 
-set -Eeuo pipefail
+set -Eeuox pipefail
 cd "$(dirname "$0")"
 
 bash -c ./build.sh
 
 docker pull nginx
 
-docker kill eatmeathodl
+if docker ps | grep -a eatmeathodl; then
+    docker kill eatmeathodl
+fi
 
 docker system prune -f
 
